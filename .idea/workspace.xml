@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a4d4ac-704d-4825-8525-b7e58cfc0e85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KSA-client/src/components/Modules/AnnouncementForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/KSA-client/src/components/Modules/AnnouncementForm.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Modules/Search.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Modules/HeaderNavigation.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Modules/Announcements.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Modules/AnnouncementForm.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/router/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Modules/Announcement.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Services/LocalStorageService.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KSA-client/src/components/Services/ApiService.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2PN2JvwwIldKN9ZhDFxframpzZi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2023-2024/EERSTE_SEMESTER/CCECTTP/SECURITY_WINDOW/ELECTRON" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SIBREN\SCHOOL\2022-2023\tweede_sem\WEB_FRAMEWORKS\CLIENT\KSA-client\src\components\icons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a4d4ac-704d-4825-8525-b7e58cfc0e85" name="Changes" comment="" />
+      <created>1683283153539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683283153539</updated>
+      <workItem from="1683283155263" duration="2978000" />
+      <workItem from="1683287301983" duration="12269000" />
+      <workItem from="1683300851438" duration="4888000" />
+      <workItem from="1683360071573" duration="7328000" />
+      <workItem from="1683447354373" duration="8015000" />
+      <workItem from="1683529732524" duration="670000" />
+      <workItem from="1684568330733" duration="35000" />
+      <workItem from="1686392764457" duration="518000" />
+      <workItem from="1686397140631" duration="1377000" />
+      <workItem from="1686486627166" duration="73000" />
+      <workItem from="1686586570554" duration="2334000" />
+      <workItem from="1686645803842" duration="2180000" />
+      <workItem from="1686648839687" duration="153000" />
+      <workItem from="1686649149823" duration="124000" />
+      <workItem from="1686657537287" duration="1074000" />
+      <workItem from="1687088672917" duration="25000" />
+      <workItem from="1687090550815" duration="380000" />
+      <workItem from="1699877975750" duration="53000" />
+      <workItem from="1699888441575" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
